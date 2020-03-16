@@ -1,4 +1,4 @@
-# Assessment of Noise Levels in the Intensive Care Unit Using Apple Watch
+# Evaluation of Noise Levels in the Intensive Care Unit (ICU) Using Apple Watch
 
 Alarms from monitors and medical devices, staff activities, and patient interventions contribute to high noise levels in the Intensive Care Unit (ICU) and may disrupt sleep patterns in patients admitted to the ICU contributing to the development of delirium and post-intensive care syndrome.
 
